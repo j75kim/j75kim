@@ -1,5 +1,3 @@
-# About Me
+My name is Jiwon Kim and I am a second year Computer Science student at the University of Waterloo. 
 
-I am a second year Computer Science student at the University of Waterloo. 
-
-- Currently learning Flask and PyTorch
+Thanks for stopping by! Contact me at j75kim@uwaterloo.ca 
