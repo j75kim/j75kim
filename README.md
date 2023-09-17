@@ -1,4 +1,4 @@
-# hi there :):
+# welcome to my github
 I'm currently learning Flask<br>
 
 
