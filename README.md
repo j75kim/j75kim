@@ -1,4 +1,4 @@
-# 💫 About Me:
+# hi there :):
 I'm currently learning Flask<br>
 
 
